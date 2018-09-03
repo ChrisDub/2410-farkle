@@ -123,7 +123,7 @@ public class FarkleFrame extends JFrame {
 		die1.setMinimumSize(new Dimension(70, 70));
 		die1.setMaximumSize(new Dimension(70, 70));
 		die1.setPreferredSize(new Dimension(70, 70));
-		die1.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-1.png")));
+		die1.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-1-70px.png")));
 		die1.setBackground(bgWhite);
 		die1.setBorderPainted(false);
 		die1.setBounds(new Rectangle(0, 0, 70, 70));
@@ -133,7 +133,7 @@ public class FarkleFrame extends JFrame {
 		die2.setMinimumSize(new Dimension(70, 70));
 		die2.setMaximumSize(new Dimension(70, 70));
 		die2.setPreferredSize(new Dimension(70, 70));
-		die2.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-2.png")));
+		die2.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-2-70px.png")));
 		die2.setBackground(bgWhite);
 		die2.setBorderPainted(false);
 		die2.setBounds(new Rectangle(0, 0, 70, 70));
@@ -143,7 +143,7 @@ public class FarkleFrame extends JFrame {
 		die3.setMinimumSize(new Dimension(70, 70));
 		die3.setMaximumSize(new Dimension(70, 70));
 		die3.setPreferredSize(new Dimension(70, 70));
-		die3.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-3.png")));
+		die3.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-3-79px.png")));
 		die3.setBackground(bgWhite);
 		die3.setBorderPainted(false);
 		die3.setBounds(new Rectangle(0, 0, 70, 70));
@@ -153,7 +153,7 @@ public class FarkleFrame extends JFrame {
 		die4.setMinimumSize(new Dimension(70, 70));
 		die4.setMaximumSize(new Dimension(70, 70));
 		die4.setPreferredSize(new Dimension(70, 70));
-		die4.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-4.png")));
+		die4.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-4-70px.png")));
 		die4.setBackground(bgWhite);
 		die4.setBorderPainted(false);
 		die4.setBounds(new Rectangle(0, 0, 70, 70));
@@ -163,7 +163,7 @@ public class FarkleFrame extends JFrame {
 		die5.setMinimumSize(new Dimension(70, 70));
 		die5.setMaximumSize(new Dimension(70, 70));
 		die5.setPreferredSize(new Dimension(70, 70));
-		die5.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-5.png")));
+		die5.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-5-70px.png")));
 		die5.setBackground(bgWhite);
 		die5.setBorderPainted(false);
 		die5.setBounds(new Rectangle(0, 0, 70, 70));
@@ -173,7 +173,7 @@ public class FarkleFrame extends JFrame {
 		die6.setMinimumSize(new Dimension(70, 70));
 		die6.setMaximumSize(new Dimension(70, 70));
 		die6.setPreferredSize(new Dimension(70, 70));
-		die6.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-6.png")));
+		die6.setIcon(new ImageIcon(FarkleFrame.class.getResource("/farkle/dice-6-70px.png")));
 		die6.setBackground(bgWhite);
 		die6.setBorderPainted(false);
 		die6.setBounds(new Rectangle(0, 0, 70, 70));
